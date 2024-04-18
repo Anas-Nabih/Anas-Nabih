@@ -1,9 +1,20 @@
-<h1 align="center">Hi 👋, I'm Anas Nabih</h1>
-<h3 align="center">Software Engineer || Mobile Apps Developer</h3>
+<h3 align="center">
+  Welcome to Anas Nabih's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=36bcf7&vCenter=true&size=22"></a>
+</p> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-nabih&label=Profile%20views&color=0e75b6&style=flat" alt="anas-nabih" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-nabih" alt="anas-nabih" /></a> </p>
+
+- 🎓 Bachelor in Mathematics and Computer Science.
+
+-  📱 I'm a Flutter Mobile Application developer.
 
 - 💬 Ask me anything **related to the flutter technology.**
 
